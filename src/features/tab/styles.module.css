@@ -1,0 +1,16 @@
+.tab{
+   padding: 0.5rem 1rem;
+   background-color: white;
+   font-size: 1rem;
+   transition: all 0.3s ease;
+}
+
+.tab:hover{
+   background-color: grey;
+}
+
+.active{
+   padding: 0.5rem 1rem;
+   background-color: grey;
+   font-size: 1rem;
+}

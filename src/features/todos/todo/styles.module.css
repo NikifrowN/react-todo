@@ -1,0 +1,27 @@
+.root{
+   display: flex;
+   align-items: center;
+   background-color: white;
+   font-size: 2rem;
+   border-bottom: 0.2rem black solid;
+   margin-bottom: 0.4rem;
+}
+
+.root li {
+   flex: 1;
+   padding: 0.3rem 0.6rem;
+}
+
+.root button {
+   width: 3rem;
+   display: flex;
+   align-items: center;
+   background-color: white;
+   cursor: pointer;
+   padding: 0.6rem;
+}
+
+.completed {
+   text-decoration: line-through;
+   opacity: 0.5;
+} 

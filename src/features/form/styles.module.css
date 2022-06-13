@@ -1,0 +1,21 @@
+.root{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.input{
+   padding: 0.6rem;
+   font-size: 2rem;
+   width: 23rem;
+   margin-right: 0.8rem
+}
+
+.btn{
+   padding: 0.6rem;
+   cursor: pointer;
+   background-color: white;
+   color: white;
+   width: 3.9rem;
+   display: flex;
+   align-items: center;
+}
